@@ -8,6 +8,7 @@ public class GitTest {
         System.out.println("哈哈3");
         System.out.println("哈哈4");
         System.out.println("master commit");
+        System.out.println("hot-fix");
     }
 
 }
